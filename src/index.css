@@ -1,0 +1,16 @@
+*{
+  font-family: Madimi One, sans-serif;
+
+}
+body {
+  margin: 0;
+    font-family: Madimi One, sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Madimi One, sans-serif;
+
+}
