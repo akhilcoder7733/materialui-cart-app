@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/materialui-cart-app/static/css/main.2d83edd0.css",
+    "main.js": "/materialui-cart-app/static/js/main.5dbc7ad6.js",
+    "static/js/453.41f8b46e.chunk.js": "/materialui-cart-app/static/js/453.41f8b46e.chunk.js",
+    "static/media/YelllowShoe.jpg": "/materialui-cart-app/static/media/YelllowShoe.384cedde1298c136ac9c.jpg",
+    "static/media/RedShoe.jpg": "/materialui-cart-app/static/media/RedShoe.2c508aebdb0bbac5d694.jpg",
+    "static/media/Ring2.jpg": "/materialui-cart-app/static/media/Ring2.b470fe25b55e70a9e543.jpg",
+    "static/media/WhiteShoe.jpg": "/materialui-cart-app/static/media/WhiteShoe.2b09d341d09ff263ac68.jpg",
+    "static/media/Ring1.jpg": "/materialui-cart-app/static/media/Ring1.7e1490893a73c5fa43cb.jpg",
+    "static/media/Clock.jpg": "/materialui-cart-app/static/media/Clock.cd574606d8daa4f06da9.jpg",
+    "index.html": "/materialui-cart-app/index.html",
+    "main.2d83edd0.css.map": "/materialui-cart-app/static/css/main.2d83edd0.css.map",
+    "main.5dbc7ad6.js.map": "/materialui-cart-app/static/js/main.5dbc7ad6.js.map",
+    "453.41f8b46e.chunk.js.map": "/materialui-cart-app/static/js/453.41f8b46e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d83edd0.css",
+    "static/js/main.5dbc7ad6.js"
+  ]
+}
